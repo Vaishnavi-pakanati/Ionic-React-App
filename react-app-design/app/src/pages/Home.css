@@ -1,0 +1,90 @@
+
+
+#body
+{
+    background-color: #4854e0;
+}
+
+.avatar
+{
+margin-left: 60px;
+    height:250px;
+    width: 250px;
+}
+.h1
+{
+    font-size: 25px;
+   font-style:inherit;
+  margin-left: 82px;
+}
+.h2
+{
+    font-size: 25px;
+    font-style:inherit;
+   margin-left: 115px;
+}
+.body
+{
+    color:var(--ion-color-tertiary-shade);
+}
+
+.body{
+    height:100vh;
+}
+.logo
+{
+  margin-left:20px;
+  width:100px;
+  height:100px;
+  color:black;
+    
+}
+.btn1
+{
+  
+  height: 28px;
+  width:129px;
+  margin-left:75px;
+  margin-top:56px;
+  font-size:11px;
+
+
+}
+
+.bt1
+{
+
+color:rgb(80, 45, 45);
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.rect{
+position: absolute;
+width: 71px;
+height: 79px;
+left: 300px;
+top: 145.28px;
+
+background: rgba(97, 84, 84, 0.89);
+border-radius: 19px;
+transform: rotate(-20deg);
+}
+.rect1
+{
+position: absolute;
+width: 141px;
+height: 154px;
+left: -49px;
+top: 664.14px;
+
+background: rgba(66, 55, 55, 0.44);
+border-radius: 49px;
+transform: rotate(-26.6deg);
+}
+.lb1
+{
+    font-size:25px;
+    margin-top:25px;
+    margin-left:35px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

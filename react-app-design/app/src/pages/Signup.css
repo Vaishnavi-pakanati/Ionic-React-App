@@ -1,0 +1,53 @@
+.lg1
+{
+    margin-left: 112px;
+    font-size: 18px;
+    font-style:italic;
+}
+.btn3
+{
+    font-size: 15px;
+    font-weight: bold;
+    font-style:initial;
+    margin-bottom: 34px;
+    width:120px;
+    margin-left: 84px;
+    margin-top: 28px;
+}
+.inputbox1
+{
+    /* margin:0px;
+    background-color: aliceblue;
+    border-radius:8px;
+    color:black;
+    padding-left: 20px;
+    width:220px;
+    margin-left: 28px; */
+    background-color: rgb(241, 245, 248);
+    border-radius:8px;
+    color:black;
+    padding-left: 20px;
+    width:210px;
+    height:32px;
+    margin-left: 35px;
+    margin-top: 5px;
+
+}
+.gg
+{
+    height:90px;
+    width:130px;
+    margin-left:80px;
+    border-radius: 80px;
+
+
+}
+.fb
+{
+
+}
+div
+{
+    display:flex;
+    
+}
